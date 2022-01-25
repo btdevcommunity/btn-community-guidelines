@@ -166,4 +166,4 @@ Please use @Mod to contact moderators or admins in the community discord server.
 
 ----
 
-*This community guidelines were referenced from [The Programmer's Hangout](https://theprogrammershangout.com/rules).*
+*These community guidelines were referenced from [The Programmer's Hangout](https://theprogrammershangout.com/rules).*
