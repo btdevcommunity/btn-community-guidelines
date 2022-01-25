@@ -1,11 +1,11 @@
-# <a href="https://www.devbt.org"> <p align="center">Bhutan Developer Community Guidelines</p> </a> 
+# <a target="_blank" href="https://www.devbt.org"> <p align="center">Bhutan Developer Community Guidelines</p> </a> 
 
 <p align="center">
- <a href="https://www.devbt.org">
+ <a target="_blank" href="https://www.devbt.org">
   <img src="https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png" alt="Bhutan Developer Community Logo" />
  </a>
 </p>
-<a href="https://www.devbt.org">
+<a target="_blank" href="https://www.devbt.org">
  <p align="center">Bhutan Developer Community</p>
 </a>
 
@@ -145,19 +145,19 @@ Please use @Mod to contact moderators or admins in the community discord server.
 <br/>
 
 <p align="center">
- <a href="https://chat.whatsapp.com/ByKjpnV2ajsBiqG140WEI2">
-  <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Bhutan Developer Community's WhatsApp Group" />     
+ <a target="_blank" href="https://chat.whatsapp.com/ByKjpnV2ajsBiqG140WEI2">
+  <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Bhutan Developer Community's WhatsApp Group" />   
  </a>
- <a href="https://discord.gg/kfG4Z9qBEb">
+ <a target="_blank" href="https://discord.gg/kfG4Z9qBEb">
   <img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Bhutan Developer Community's Discord Server" />     
  </a>
- <a href="https://github.com/BTDeveloperCommunity">
+ <a target="_blank" href="https://github.com/BTDeveloperCommunity">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="Bhutan Developer Community's GitHub" />     
  </a>
- <a href="mailto:btdevelopercommunity@gmail.com">
+ <a target="_blank" href="mailto:btdevelopercommunity@gmail.com">
   <img src="https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Bhutan Developer Community's email" />     
  </a>
- <a href="https://www.devbt.org">
+ <a target="_blank" href="https://www.devbt.org">
   <img src="https://img.shields.io/badge/Website-1EBBEE?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Bhutan Developer Community's" />     
  </a>
 </p>
@@ -166,4 +166,4 @@ Please use @Mod to contact moderators or admins in the community discord server.
 
 ----
 
-*These community guidelines were referenced from [The Programmer's Hangout](https://theprogrammershangout.com/rules).*
+*These community guidelines were referenced from <a target="_blank" href="https://theprogrammershangout.com/rules">The Programmer's Hangout</a>.*
