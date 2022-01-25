@@ -1,6 +1,5 @@
 # <a href="https://www.devbt.org"> <p align="center">Bhutan Developer Community Guidelines</p> </a> 
 
-
 <p align="center">
  <a href="https://www.devbt.org">
   <img src="https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png" alt="Bhutan Developer Community Logo" />
@@ -140,7 +139,7 @@ BTN Developer Community is not a recruitment platform for programmers for your p
 Please use @Mod to contact moderators or admins in the community discord server.
 
 
-##Join or Contact Bhutan Developer Community
+## Join or Contact Bhutan Developer Community
 
 <br/>
 
