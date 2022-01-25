@@ -138,6 +138,7 @@ BTN Developer Community is not a recruitment platform for programmers for your p
 
 Please use @Mod to contact moderators or admins in the community discord server.
 
+<br/>
 
 ## Join or Contact Bhutan Developer Community
 
@@ -165,4 +166,4 @@ Please use @Mod to contact moderators or admins in the community discord server.
 
 ----
 
-*Reference from [The Programmer's Hangout](https://theprogrammershangout.com/rules) to our need as they have great rules to follow.*
+*This community guidelines were referenced from [The Programmer's Hangout](https://theprogrammershangout.com/rules).*
