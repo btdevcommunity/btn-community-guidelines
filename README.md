@@ -151,6 +151,9 @@ Please use @Mod to contact moderators or admins in the community discord server.
  <a target="_blank" href="https://chat.whatsapp.com/ByKjpnV2ajsBiqG140WEI2">
   <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Bhutan Developer Community's WhatsApp Group" />   
  </a>
+  <a href="https://t.me/+0WfVhQysyQFiOTg1">
+  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Bhutan Developer Community's Telegram Channel" /> 
+ </a>
  <a target="_blank" href="https://discord.gg/kfG4Z9qBEb">
   <img src="https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Bhutan Developer Community's Discord Server" />     
  </a>
